@@ -1,0 +1,32 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\itextsharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\bin\Release\itextsharp.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\obj\Release\datos.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\obj\Release\datos.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\obj\Release\datos.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\obj\Release\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\obj\Release\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\datos\obj\Release\datos.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\datos.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\datos.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\datos.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\itextsharp.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\bin\Release\itextsharp.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.Resources.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.vbproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.vbproj.Up2Date
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\datos\obj\Release\datos.pdb

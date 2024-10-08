@@ -1,0 +1,18 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\obj\Release\entidad.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\obj\Release\entidad.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\obj\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\obj\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\entidad\obj\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.Resources.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.vbproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\entidad\obj\Release\entidad.pdb

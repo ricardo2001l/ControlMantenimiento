@@ -1,0 +1,79 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\itextsharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\itextsharp.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.acercaDe.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.equipo.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.informe.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.iniciarSesion.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.mainMenu.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.mantenimiento.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.usuario.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.exe.manifest
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.application
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.exe.manifest
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.application
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Data.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Deployment.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Drawing.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Windows.Forms.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Xml.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\bin\Release\System.Xml.Linq.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.baseDatos.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.acercaDe.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.baseDatos.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.equipo.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.informe.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.iniciarSesion.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.mainMenu.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.mantenimiento.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.Resources.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.usuario.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.vbproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.exe
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.exe.config
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.exe.manifest
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.application
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.exe
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\Control de Mantenimiento.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\datos.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Data.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Deployment.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Drawing.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Windows.Forms.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Xml.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\System.Xml.Linq.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\itextsharp.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\datos.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\datos.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\bin\Release\itextsharp.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.exe.manifest
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\Control de Mantenimiento.application
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\controlMantenimiento\presentacion\obj\Release\presenta.5750449A.Up2Date

@@ -1,2 +1,2 @@
 # ControlMantenimiento
-Programa de controlador de mantenimiento. Programa de escritorio.
+Programa de control de mantenimiento. Programa de escritorio.

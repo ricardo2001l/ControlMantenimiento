@@ -1,2 +1,2 @@
 # ControlMantenimiento
-Maintenance Controller Program for Desktop.
+Programa de controlador de mantenimiento. Programa de escritorio.
